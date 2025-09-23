@@ -50,4 +50,6 @@ Clone este repositório:
 ```bash
 git clone https://github.com/MahSantos98/data-science-portfolio.git
 cd data-science-portfolio/python-projects/netflix-analysis
+pip install -r requirements.txt
+python Netflix_project.py
 
