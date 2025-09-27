@@ -50,4 +50,4 @@ O objetivo é explorar o catálogo da Netflix ao longo dos anos, extraindo insig
 Clone este repositório:  
 ```bash
 git clone https://github.com/MahSantos98/data-science-portfolio.git
-cd netflix-analysis/sql-project
+cd Netflix_project/sql-project
